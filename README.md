@@ -2,7 +2,8 @@
 
 ## Description
 
-This is a React application that serves as the front end for a Shopify e-commerce store. It utilizes components to structure the user interface and interacts with the Shopify API (to be implemented) to retrieve and display product information, handle user actions like adding items to the cart, and potentially checkout flows.
+This is a React application that serves as the front end for a Shopify e-commerce store. It utilizes components to structure the user interface and interacts with the Shopify API (to be implemented) to retrieve and display product information, handle user actions like adding items to the cart, and potentially checkout flows.This is a basic structure for the React e-commerce application, with key functionalities to be implemented.
+
 
 ## Installation
 
